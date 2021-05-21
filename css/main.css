@@ -9,6 +9,10 @@ a {
     display: block;
 }
 
+.container, .sign-off, .hero {
+  padding: 1em;
+}
+
 body {
   height: 100%;
   min-height: 100%;
@@ -28,10 +32,6 @@ body {
   background: #EFF2F6;
 }
 
-.container{
-  padding: 1em;
-}
-
 section.footer{
   background: #444444;
 }
@@ -40,8 +40,4 @@ section.footer{
   display: grid;
   grid-template-columns: auto auto auto auto;
   justify-items: center;
-}
-
-.footer{
-  padding: 1em;
 }
