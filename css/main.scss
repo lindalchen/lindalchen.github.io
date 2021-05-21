@@ -12,18 +12,6 @@ body {
 .navbar {
   background: white;
   padding: 1em;
-
-  nav {
-    display: none;
-  }
-
-  .container{
-    display: flex;
-    place-content: space-between;
-  }
-
-  .mobile-menu{
-    cursor: pointer;
   }
 }
 
