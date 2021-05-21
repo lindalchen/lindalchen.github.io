@@ -28,9 +28,12 @@ body {
 
 }
 
-.container {
+nav ul {
   display: flex;
-  place-content: space-between;
+}
+
+nav li {
+  flex: auto ;
 }
 
 .hero{
