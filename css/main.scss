@@ -13,13 +13,13 @@ body {
 .navbar {
   background: white;
   padding: 1em;
-}
 
-nav {
-  display: none;
-}
+  nav {
+    display: none;
+  }
 
-.container{
-  display: flex;
-  place-content: space-between;
+  .container{
+    display: flex;
+    place-content: space-between;
+  }
 }
