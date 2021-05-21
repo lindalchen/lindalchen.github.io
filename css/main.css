@@ -39,7 +39,7 @@ body {
 
 section.footer{
   background: #444444;
-  box-shadow: 0 50vh 0 50vh #000;
+  box-shadow: 0 50vh 0 50vh #444444;
 }
 
 .foot-container{
