@@ -26,7 +26,10 @@ body {
 
 .hero{
   background: #EFF2F6;
-  text-align: center;
+}
+
+.container{
+  padding: 1em;
 }
 
 section.footer{
