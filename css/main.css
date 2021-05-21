@@ -4,6 +4,11 @@ a {
     color: #555555;
 }
 
+.marginauto {
+    margin: 0 auto;
+    display: block;
+}
+
 body {
   height: 100%;
   min-height: 100%;
@@ -33,9 +38,4 @@ section.footer{
   grid-template-columns: auto auto auto auto;
   padding: 3em;
   justify-items: center;
-}
-
-.marginauto {
-    margin: 5px auto 5px;
-    display: block;
 }
