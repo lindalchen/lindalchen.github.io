@@ -25,7 +25,12 @@ body {
 .navbar {
   background: white;
   padding: 1em;
-  }
+
+}
+
+.container {
+  display: flex;
+  place-content: space-between;
 }
 
 .hero{
