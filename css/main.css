@@ -1,0 +1,13 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap');
+
+html, body {
+              background: #EFF2F6;
+              height: 100%;
+              min-height: 100%;
+              width: 100%;
+              margin: 0;
+              padding: 0;
+              font-family: "Source Sans Pro"
+            }
+</style>
