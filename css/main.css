@@ -32,4 +32,5 @@ section.footer{
   display: grid;
   grid-template-columns: auto auto auto auto;
   padding: 3em;
+  justify-items: center;
 }
